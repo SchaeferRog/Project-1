@@ -1,2 +1,2 @@
 # Project-1
-CIVE202 Project #1
+This repository includes the files for Project No. 1 
