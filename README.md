@@ -21,4 +21,4 @@ The objectives are to:
 - **Scope of Work:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_SOW.docx
 - **Project 1 Code:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_ProjectCode.ipynb
 - **Annotated Code Document:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_ACD.xlsx
-- Written Report:** 
+- **Written Report:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_WrittenReport.docx
