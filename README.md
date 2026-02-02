@@ -6,9 +6,9 @@ This repository includes the files for Project No. 1
 The goal of this project is to provide the UNMC Water, Climate and Health Group with an analysis of air quality conditions across Nebraska using AirPurple sensor data collected from February 2024 through March 2025.
 
 The project focuses on evaluating concentrations of:
-- VOCs
-- PM2.5
-- PM10
+- VOCs (volatile organic compounds)
+- PM2.5 (fine particulate matter ≤ 2.5 µm)
+- PM10 (fine particulate matter ≤ 10.0 µm)
 
 The objectives are to:
 - Determine whether recorded values align with EPA air quality standards.
