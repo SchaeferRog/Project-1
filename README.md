@@ -17,5 +17,8 @@ The objectives are to:
 
 ## Files
 
-- **AirPurple Data File:** `AirQuality_Daily.csv`
-- **Project 1 Code:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_ACD.xlsx
+- **AirPurple Data File:** https://github.com/SchaeferRog/Project-1/blob/main/AirQuality_Daily.csv
+- **Scope of Work:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_SOW.docx
+- **Project 1 Code:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_ProjectCode.ipynb
+- **Annotated Code Document:** https://github.com/SchaeferRog/Project-1/blob/main/CIVE202_Spring2026_SchaeferRogers_Project1_ACD.xlsx
+- Written Report:** 
